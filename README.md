@@ -57,20 +57,24 @@ Currently learning advanced backend architecture, cloud deployment, and producti
 
 # GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=Satya23BDS0326\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true)
+<div align="center">
 
-![](https://streak-stats.demolab.com/?user=Satya23BDS0326\&theme=tokyonight\&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api?username=Satya23BDS0326&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Satya23BDS0326\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Satya23BDS0326&theme=tokyonight&hide_border=false" height="180em" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satya23BDS0326&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180em" />
+
+</div>
 
 ---
 
 # Top Contributed Repository
 
-![](https://github-contributor-stats.vercel.app/api?username=Satya23BDS0326\&limit=5\&theme=tokyonight\&combine_all_yearly_contributions=true)
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=Satya23BDS0326&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+
+</div>
 
 ---
-
-![](https://komarev.com/ghpvc/?username=Satya23BDS0326\&color=blueviolet\&style=flat)
-
-<!-- Generated using GPRM -->
