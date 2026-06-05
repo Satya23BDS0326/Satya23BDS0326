@@ -103,3 +103,9 @@ Currently learning advanced backend architecture, cloud deployment, and producti
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satya23BDS0326&theme=tokyo-night&hide_border=true"/>
 </p>
+ ---
+ ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Satya23BDS0326&label=Profile%20Views&color=7F3FBF&style=for-the-badge" />
+</p>
