@@ -83,21 +83,23 @@ Currently learning advanced backend architecture, cloud deployment, and producti
 # GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satya23BDS0326&show_icons=true&theme=tokyonight" height="180em"/>
-
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Satya23BDS0326&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Satya23BDS0326&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satya23BDS0326&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://streak-stats.demolab.com?user=Satya23BDS0326&theme=tokyonight&hide_border=true" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satya23BDS0326&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
 </p>
 
 ---
 
-# Top Contributed Repository
+# Contribution Graph
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Satya23BDS0326&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satya23BDS0326&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
