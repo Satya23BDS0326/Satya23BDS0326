@@ -83,17 +83,13 @@ Currently learning advanced backend architecture, cloud deployment, and producti
 # GitHub Statistics
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Satya23BDS0326&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Satya23BDS0326&show_icons=true&theme=tokyonight&hide_border=false&cache_seconds=1800" height="180em"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Satya23BDS0326&theme=tokyonight&hide_border=false" height="180em"/>
-
+  <img src="https://streak-stats.demolab.com?user=Satya23BDS0326&theme=tokyonight&hide_border=false" height="170"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satya23BDS0326&layout=compact&theme=tokyonight&hide_border=false&cache_seconds=1800" height="180em"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satya23BDS0326&layout=compact&theme=tokyonight&hide_border=false" height="170"/>
 </p>
 
 ---
@@ -101,13 +97,7 @@ Currently learning advanced backend architecture, cloud deployment, and producti
 # Top Contributed Repository
 
 <p align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Satya23BDS0326&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
+  <img src="https://github-contributor-stats.vercel.app/api?username=Satya23BDS0326&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 </p>
 
 ---
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Satya23BDS0326&color=blueviolet&style=flat"/>
-</p>
