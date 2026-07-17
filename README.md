@@ -84,14 +84,11 @@ Currently learning advanced backend architecture, cloud deployment, and producti
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Satya23BDS0326&show_icons=true&theme=tokyonight&count_private=true" alt="Satya's GitHub stats" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Satya23BDS0326&theme=tokyonight&v=1" alt="GitHub Streak" height="180em" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Satya23BDS0326&layout=compact&theme=tokyonight" alt="Top Langs" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satya23BDS0326&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </p>
 
 ---
