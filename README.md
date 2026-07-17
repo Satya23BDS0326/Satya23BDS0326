@@ -1,4 +1,4 @@
-# Balla Satya Narayana
+# Balla Satya Narayan
 
 AI & Full-Stack Developer focused on building intelligent systems using LLMs, RAG pipelines, Computer Vision, and scalable web technologies. Passionate about transforming complex ideas into practical products with clean architecture, fast performance, and impactful user experiences.
 
