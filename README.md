@@ -84,11 +84,7 @@ Currently learning advanced backend architecture, cloud deployment, and producti
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Satya23BDS0326&show_icons=true&theme=tokyonight&count_private=true" alt="Satya's GitHub stats" height="180em" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Satya23BDS0326&layout=compact&theme=tokyonight" alt="Top Langs" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satya23BDS0326&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Satya23BDS0326&layout=compact&theme=tokyonight" alt="Top Languages" height="180em" />
 </p>
 
 ---
@@ -96,9 +92,9 @@ Currently learning advanced backend architecture, cloud deployment, and producti
 # Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satya23BDS0326&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satya23BDS0326&theme=tokyo-night&hide_border=true" alt="Satya's Contribution Graph" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Satya23BDS0326&label=Profile%20Views&color=7F3FBF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Satya23BDS0326&label=Profile%20Views&color=7F3FBF&style=for-the-badge" alt="Profile Views" />
 </p>
