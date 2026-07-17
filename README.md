@@ -83,17 +83,12 @@ Currently learning advanced backend architecture, cloud deployment, and producti
 # GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Satya23BDS0326&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Satya23BDS0326&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satya23BDS0326&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Satya23BDS0326&theme=tokyonight" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Satya23BDS0326&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satya23BDS0326&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Satya23BDS0326&theme=tokyonight" />
 </p>
 
 ---
