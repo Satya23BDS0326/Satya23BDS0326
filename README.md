@@ -87,7 +87,7 @@ Currently learning advanced backend architecture, cloud deployment, and producti
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Satya23BDS0326&theme=tokyonight" alt="GitHub Streak" height="180em" />
+  <img src="https://streak-stats.demolab.com/?user=Satya23BDS0326&theme=tokyonight&v=1" alt="GitHub Streak" height="180em" />
 </p>
 
 <p align="center">
