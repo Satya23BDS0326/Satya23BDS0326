@@ -88,7 +88,7 @@ Currently learning advanced backend architecture, cloud deployment, and producti
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Satya23BDS0326&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satya23BDS0326&theme=tokyonight" />
 </p>
 
 ---
