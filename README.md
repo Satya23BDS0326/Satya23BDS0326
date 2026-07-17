@@ -87,10 +87,6 @@ Currently learning advanced backend architecture, cloud deployment, and producti
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Satya23BDS0326&layout=compact&theme=tokyonight" alt="Top Languages" height="180em" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-report-card.vercel.app/?user=Satya23BDS0326&theme=tokyonight" alt="GitHub Streak" height="180em" />
-</p>
-
 ---
 
 # Contribution Graph
