@@ -1,6 +1,8 @@
 # Balla Satya Narayana
 
-AI & Full-Stack Developer focused on building intelligent systems using LLMs, RAG pipelines, Computer Vision, and scalable web technologies. Passionate about transforming complex ideas into practical products with clean architecture, fast performance, and impactful user experiences.
+AI & Full-Stack Developer focused on building intelligent systems using LLMs, RAG pipelines, Computer Vision, and scalable web technologies.
+
+Passionate about transforming complex ideas into practical products with clean architecture, fast performance, and impactful user experiences.
 
 Currently working on AI-powered full-stack applications using FastAPI, LLMs, RAG systems, and Computer Vision.
 
@@ -13,21 +15,23 @@ Currently learning advanced backend architecture, cloud deployment, and producti
 ## Connect With Me
 
 <p align="left">
+
 <a href="https://instagram.com/_satyaballa_" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="https://linkedin.com/in/satya23bds0326" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/Satya23BDS0326" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="mailto:ballasatya1304@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 </p>
 
 ---
@@ -83,8 +87,19 @@ Currently learning advanced backend architecture, cloud deployment, and producti
 # GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satya23BDS0326&show_icons=true&theme=tokyonight&count_private=true" alt="Satya's GitHub stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satya23BDS0326&layout=compact&theme=tokyonight" alt="Top Languages" height="180em" />
+
+<img
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Satya23BDS0326&show_icons=true&theme=tokyonight"
+  alt="Satya's GitHub Statistics"
+  height="180"
+/>
+
+<img
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Satya23BDS0326&layout=compact&theme=tokyonight"
+  alt="Top Languages"
+  height="180"
+/>
+
 </p>
 
 ---
@@ -92,9 +107,22 @@ Currently learning advanced backend architecture, cloud deployment, and producti
 # Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satya23BDS0326&theme=tokyo-night&hide_border=true" alt="Satya's Contribution Graph" width="100%" />
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Satya23BDS0326&theme=tokyo-night&hide_border=true"
+  alt="Satya's Contribution Graph"
+  width="100%"
+/>
+
 </p>
 
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Satya23BDS0326&label=Profile%20Views&color=7F3FBF&style=for-the-badge" alt="Profile Views" />
+
+<img
+  src="https://komarev.com/ghpvc/?username=Satya23BDS0326&label=Profile%20Views&color=7F3FBF&style=for-the-badge"
+  alt="Profile Views"
+/>
+
 </p>
